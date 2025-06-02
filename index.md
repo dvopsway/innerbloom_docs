@@ -10,4 +10,4 @@ Welcome to the official documentation site for Innerbloom.
 
 ---
 
-_Last updated: March 2024_ 
+_Last updated: 2 June 2025_ 
